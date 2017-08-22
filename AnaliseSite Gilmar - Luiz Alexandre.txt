@@ -1,0 +1,14 @@
+Arcanjos
+¬¬¬Site
+- Complicado a leitura do site;
+- Informações repetidas
+- não apresenta os produtos (POUCAS FOTOS, CONTRADIZENDO A APRESENTAÇÃO);
+- a cada sessão o titulo fica acima;
+- em dispositivo móvel o botão menu fica por cima do texto;
+-Site Template;
+- Botão faça o seu seu orçamento na tela principal;
+-  Sessão Orçamento (Errada).
+Documentação Técnica
+- A documentação não deixa claro qual o objetivo geral do site e não está de acordo com os requisitos do projeto.
+-Manual de identidade ficou muito simples, sem cores.
+- Ainda no Manual Muita dificuldade no trabalho, não é o momento para registrar tantos problemas de capacidade técnica;
